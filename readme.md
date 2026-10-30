@@ -2,7 +2,7 @@
 
 this repository documents my solution to properly attributing popular models used by agents when committing and pushing to GitHub repositories.
 
-<sup><sub><a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com"><img width="24" align="top" alt="mircomoji" src=".github/images/mircomoji-flat.png" /></a> click me</sub></sup>
+<sup><sub><a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com"><img width="24" align="top" alt="mircomoji" src=".github/images/mircomoji-X3-flat.png" /></a> click me</sub></sup>
 
 ## the problem
 
