@@ -30,7 +30,9 @@ co-authored-by: {agent}/{model with version} <{email address}>
 three concrete examples:
 
 ```
-fix(host): leave the top word of a guest's stack zero, as the kernel does
+fix(parser): handle an empty input
+
+an empty file reaches the tokenizer as a null buffer, which crashes on its first read. the parser returns an empty document for it before tokenizing anything.
 
 co-authored-by: Claude Code/Claude Opus 5.5 <noreply@anthropic.com>
 ```
