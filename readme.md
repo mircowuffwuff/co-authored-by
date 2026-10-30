@@ -2,7 +2,7 @@
 
 this repository documents my solution to properly attributing popular models used by agents when committing and pushing to GitHub repositories.
 
-<sup><sub><a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com"><img width="24" align="top" alt="mircomoji" src=".github/images/mircomoji-flat.png" /></a> like my work? click my dumb face</sub></sup>
+<sup><sub><a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com"><img width="24" align="top" alt="mircomoji" src=".github/images/mircomoji-flat.png" /></a> click me</sub></sup>
 
 ## the problem
 
@@ -72,7 +72,7 @@ this text will be updated over time and the list of supported models will increa
 
 ### tested with
 
-by me, as of October 30th, 2026:
+by me <a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com"><img width="24" align="top" alt="mircomoji" src=".github/images/mircomoji-flat.png" /></a>, as of October 30th, 2026:
 
 | agent | app | obeys |
 | --- | --- | --- |
