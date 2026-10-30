@@ -92,7 +92,7 @@ i am not super sure about this though, which is why i might expand this project 
 
 ## propose an improvement
 
-whether it be a **new model** or a **more appropriate display name** for one, you may feel free to open an **issue**! or, if you want to offer a **better profile picture** for a model's GitHub account, you may open a **PR**! i track the profile pictures i use in this repository.
+whether it be a **new model** or a **more appropriate display name** for one, you may feel free to open an [issue](https://github.com/mircowuffwuff/co-authored-by/issues)! or, if you want to offer a **better profile picture** for a model's GitHub account, you may open a [PR](https://github.com/mircowuffwuff/co-authored-by/pulls)! i track the profile pictures i use in this repository.
 
 <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://support.mircowuffwuff.com">
